@@ -17,3 +17,19 @@ The rising potential of this comparatively under-the-radar market fuels the need
     - pipenv install . 
 - Activate virtual environment
     - pipenv shell 
+
+## Information Needed To Perform Prediction 
+    {
+    "screen_size" : 14.50, 
+    "4g" : "yes",	
+    "5g" :  "no",
+    "main_camera_mp": 13.0,	
+    "selfie_camera_mp": 5.0,	
+    "ram"	: 3.0, 
+    "battery": 3020.0,		
+    "release_year": 2020,	
+    "new_price"	: 111.62
+    }
+
+## URL TO Deployed Service Using Bentoml And AWS
+- http://34.229.1.105:3000/
