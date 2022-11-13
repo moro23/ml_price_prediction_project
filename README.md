@@ -32,4 +32,4 @@ The rising potential of this comparatively under-the-radar market fuels the need
     }
 
 ## URL TO Deployed Service Using Bentoml And AWS
-- http://34.229.1.105:3000/
+- http://50.19.46.48:3000/
